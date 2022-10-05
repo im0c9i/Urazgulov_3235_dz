@@ -1,0 +1,15 @@
+D:\Основы GID\DZ#5\Domashka\tesk2\bin\Debug\net6.0\tesk2.exe
+D:\Основы GID\DZ#5\Domashka\tesk2\bin\Debug\net6.0\tesk2.deps.json
+D:\Основы GID\DZ#5\Domashka\tesk2\bin\Debug\net6.0\tesk2.runtimeconfig.json
+D:\Основы GID\DZ#5\Domashka\tesk2\bin\Debug\net6.0\tesk2.dll
+D:\Основы GID\DZ#5\Domashka\tesk2\bin\Debug\net6.0\tesk2.pdb
+D:\Основы GID\DZ#5\Domashka\tesk2\obj\Debug\net6.0\tesk2.csproj.AssemblyReference.cache
+D:\Основы GID\DZ#5\Domashka\tesk2\obj\Debug\net6.0\tesk2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Основы GID\DZ#5\Domashka\tesk2\obj\Debug\net6.0\tesk2.AssemblyInfoInputs.cache
+D:\Основы GID\DZ#5\Domashka\tesk2\obj\Debug\net6.0\tesk2.AssemblyInfo.cs
+D:\Основы GID\DZ#5\Domashka\tesk2\obj\Debug\net6.0\tesk2.csproj.CoreCompileInputs.cache
+D:\Основы GID\DZ#5\Domashka\tesk2\obj\Debug\net6.0\tesk2.dll
+D:\Основы GID\DZ#5\Domashka\tesk2\obj\Debug\net6.0\refint\tesk2.dll
+D:\Основы GID\DZ#5\Domashka\tesk2\obj\Debug\net6.0\tesk2.pdb
+D:\Основы GID\DZ#5\Domashka\tesk2\obj\Debug\net6.0\tesk2.genruntimeconfig.cache
+D:\Основы GID\DZ#5\Domashka\tesk2\obj\Debug\net6.0\ref\tesk2.dll
